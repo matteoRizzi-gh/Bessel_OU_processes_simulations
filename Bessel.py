@@ -45,7 +45,7 @@ mean_tau_theory = (a**2 - R0**2) / 3
 
 # Plot sample paths
 plt.figure()
-for i in range(N):
+for i in range(5):
     t_path = 0.0
     path = [R0]
     for _ in range(int(5*a**2/dt)):  # simulate for time ~5*a^2
