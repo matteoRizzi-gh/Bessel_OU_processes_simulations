@@ -1,5 +1,6 @@
-# Reproduce BES(3) process applied to the narrow escape problem
+# Reproduce BES(3) process applied to a simplified narrow escape problem
 # with full spherical simmetry (escape at a given radius)
+# Smoluchowski capture (first‐passage) problem in 3D radial symmetry
 
 # Theoretical mean for radial diffusion in 3D: E[tau] = (a^2 - R0^2) / 3*D
 # Assume unit diffusion D=1 
