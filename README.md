@@ -1,2 +1,6 @@
 # Bessel_process_simulation
-It is present code to simulate BES(d) with Reflexive Euler-Maruyama method and application to an exit from the boundary problem (biological problem) with BES(3)
+The file Bessel_simulation_E_M has the code to simulate BES(d) with Reflexive Euler-Maruyama method
+The file Bessel has an application to the Smoluchowski diffusion-limited capture problem with BES(3)
+The file Bes(3)_with_mean has the same problem, but it plots the R(T) curve with respect to hitting time
+
+
